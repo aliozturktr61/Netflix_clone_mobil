@@ -31,3 +31,6 @@ vector icon için sayfasından eklentiler yapılmalı!!!!!
 
 
 # Netflix_clone_mobil
+![netflixApp](https://github.com/user-attachments/assets/08aeec40-13cd-40fd-8cb0-f8a81230d93e)
+
+
